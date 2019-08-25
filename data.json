@@ -1,0 +1,50 @@
+{
+    "projects":[
+        {
+            "id": 0,
+            "project_name": "Simon Game",
+            "description": "Based on the classic Simon game of the 70s, this webapp allows a user to play against the computer, repeating the pattern that increments the pattern count on each turn.",
+            "technologies": ["JavaScript", "CSS3", "HTML5"],
+            "live_link": "https://kevincurtisdev.github.io/Simon_game/",
+            "github_link": "https://github.com/KevinCurtisDev/Simon_game",
+            "image_urls": ["/static/images/jessSite.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "Jessica Traynor Poetry webapp",
+            "description": "A web application displaying information and the works of Irish Poet Jessica Traynor. Te app has been optimised for performance and offline viewing",
+            "technologies": ["JavaScript", "Service workers", "POST CSS", "HTML5", "GULP"],
+            "live_link": "https://kevincurtisdev.github.io/Jessica_webapp/",
+            "github_link": "https://github.com/KevinCurtisDev/Jessica_webapp",
+            "image_urls": ["/static/images/jessSite.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Pagination and Filtering web app",
+            "description": "A web application allowing users to dynamically search for and filter students in a directory. Pagination and search functionality were achieved through the application of unobtrusive JavaScript",
+            "technologies": ["JavaScript", "CSS3", "HTML5"],
+            "live_link": "https://kevincurtisdev.github.io/pagination-and-filtering/",
+            "github_link": "https://github.com/KevinCurtisDev/pagination-and-filtering",
+            "image_urls": ["/static/images/jessSite.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "name",
+            "description": "desc",
+            "technologies": [],
+            "live_link": "https://",
+            "github_link": "github",
+            "image_urls": ["/static/images/jessSite.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "name",
+            "description": "desc",
+            "technologies": [],
+            "live_link": "https://",
+            "github_link": "github",
+            "image_urls": ["/static/images/jessSite.png"]
+        }
+    ]
+}
+    
