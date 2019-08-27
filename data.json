@@ -7,7 +7,7 @@
             "technologies": ["JavaScript", "CSS3", "HTML5"],
             "live_link": "https://kevincurtisdev.github.io/Simon_game/",
             "github_link": "https://github.com/KevinCurtisDev/Simon_game",
-            "image_urls": ["/static/images/jessSite.png"]
+            "image_urls": ["/static/images/simonGame.png"]
         },
         {
             "id": 1,
@@ -25,25 +25,25 @@
             "technologies": ["JavaScript", "CSS3", "HTML5"],
             "live_link": "https://kevincurtisdev.github.io/pagination-and-filtering/",
             "github_link": "https://github.com/KevinCurtisDev/pagination-and-filtering",
-            "image_urls": ["/static/images/jessSite.png"]
+            "image_urls": ["/static/images/paginationFiltering.png"]
         },
         {
             "id": 3,
-            "project_name": "name",
-            "description": "desc",
-            "technologies": [],
-            "live_link": "https://",
-            "github_link": "github",
-            "image_urls": ["/static/images/jessSite.png"]
+            "project_name": "Phrase Hunter",
+            "description": "A phrase guessing game built with object oriented JavaScript, implementing the es2015 class syntax.",
+            "technologies": ["JavaScript", "CSS3", "HTML5"],
+            "live_link": "https://kevincurtisdev.github.io/oop-game-show-app/",
+            "github_link": "https://github.com/KevinCurtisDev/oop-game-show-app",
+            "image_urls": ["/static/images/phraseHunter.png"]
         },
         {
             "id": 4,
-            "project_name": "name",
-            "description": "desc",
-            "technologies": [],
-            "live_link": "https://",
-            "github_link": "github",
-            "image_urls": ["/static/images/jessSite.png"]
+            "project_name": "Employee Registry",
+            "description": "An employee registry webapp, allowing you to filter and search employees by name.",
+            "technologies": ["JavaScript", "Fetch API", "CSS3", "HTML5"],
+            "live_link": "https://kevincurtisdev.github.io/Employee-registry/",
+            "github_link": "https://github.com/KevinCurtisDev/Employee-registry",
+            "image_urls": ["/static/images/employeeRegistry.png"]
         }
     ]
 }
