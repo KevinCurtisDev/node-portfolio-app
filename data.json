@@ -7,7 +7,7 @@
             "technologies": ["JavaScript", "CSS3", "HTML5"],
             "live_link": "https://kevincurtisdev.github.io/Simon_game/",
             "github_link": "https://github.com/KevinCurtisDev/Simon_game",
-            "image_urls": ["/static/images/simonGame.png"]
+            "image_urls": ["/static/images/simonGame.png", "/static/images/simon1200x550.png", "/static/images/2simon1200x550.png"]
         },
         {
             "id": 1,
@@ -16,7 +16,7 @@
             "technologies": ["JavaScript", "Service workers", "POST CSS", "HTML5", "GULP"],
             "live_link": "https://kevincurtisdev.github.io/Jessica_webapp/",
             "github_link": "https://github.com/KevinCurtisDev/Jessica_webapp",
-            "image_urls": ["/static/images/jessSite.png"]
+            "image_urls": ["/static/images/jessSite.png", "/static/images/jess1200x550.png", "/static/images/2jess1200x550.png"]
         },
         {
             "id": 2,
@@ -25,7 +25,7 @@
             "technologies": ["JavaScript", "CSS3", "HTML5"],
             "live_link": "https://kevincurtisdev.github.io/pagination-and-filtering/",
             "github_link": "https://github.com/KevinCurtisDev/pagination-and-filtering",
-            "image_urls": ["/static/images/paginationFiltering.png"]
+            "image_urls": ["/static/images/paginationFiltering.png", "/static/images/employeeReg1200x550.png", "/static/images/2employeeReg1200x550.png"]
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "technologies": ["JavaScript", "CSS3", "HTML5"],
             "live_link": "https://kevincurtisdev.github.io/oop-game-show-app/",
             "github_link": "https://github.com/KevinCurtisDev/oop-game-show-app",
-            "image_urls": ["/static/images/phraseHunter.png"]
+            "image_urls": ["/static/images/phraseHunter.png", "/static/images/phraseHunter1200x550.png", "/static/images/2phraseHunter1200x550.png"]
         },
         {
             "id": 4,
@@ -43,7 +43,7 @@
             "technologies": ["JavaScript", "Fetch API", "CSS3", "HTML5"],
             "live_link": "https://kevincurtisdev.github.io/Employee-registry/",
             "github_link": "https://github.com/KevinCurtisDev/Employee-registry",
-            "image_urls": ["/static/images/employeeRegistry.png"]
+            "image_urls": ["/static/images/employeeRegistry.png", "/static/images/employeeDirector1200x550.png", "/static/images/2employeeDirector1200x550.png"]
         }
     ]
 }

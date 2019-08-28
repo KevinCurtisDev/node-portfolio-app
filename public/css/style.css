@@ -1,6 +1,6 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Lato', serif;
 }
 
   h5{
@@ -31,11 +31,12 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button{
-  background-color: #333;
+  background-color: rgb(63, 10, 10);
 }
 
 .button:hover{
-  background-color: #111;
+  background-color: rgb(94, 14, 14);
+  cursor: pointer;
 }
 
 a{
@@ -52,13 +53,13 @@ a:hover{
   margin-bottom: 1rem;
   border: solid 4px #fefefe;
   border-radius: 0;
-  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  box-shadow: 0 0 0 1px rgba(77, 10, 10, 0.2);
   line-height: 0;
 }
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #31241d;
   color: #fff;
   box-shadow: none !important;
 }
@@ -114,6 +115,12 @@ a:hover{
 
   .portfolio-index .thumbnail{
     margin-bottom: 5px;
+    box-shadow: 1px 1px 5px gray;
+  }
+
+  .portfolio-index .thumbnail:hover {
+    scale: 1.2;
+    cursor: pointer;
   }
 
   .portfolio-index a{

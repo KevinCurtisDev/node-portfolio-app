@@ -26,3 +26,13 @@ To view the project on your local machine:
 * Make sure you have Node installed on your operating system.
 * From the command line/Terminal cd into the root directory, run npm install.
 * Once the project dependencies have been installed run "npm start" to start a local server running on port 3000.
+
+
+## Style updates
+
+A few minor changes were made to the styling of this application during its build. The following were adjusted:
+
+* Box shadow added to thumbnail images
+* Background colour change made to the side bar bio
+* Google fonts adjusted to use Lato throughout the appliction
+* Color changes to the site buttons 
