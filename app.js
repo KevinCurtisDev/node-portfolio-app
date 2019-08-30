@@ -23,20 +23,12 @@ app.get('/project/:id', (req, res) => {
     res.render('project', {projects: projects[req.params.id]});
 });
 
-//get the base layout that all other pages extend
-app.get('/layout', (req, res) => {
-    res.render('layout');
-});
-
-//get the error page when a renderng error is ecountered
-app.get('/error', (req, res) => {
-    res.render('error');
-});
-
 //set up custom 404 error message
 app.use((req, res, next) => {
     const err = new Error("Uh oh... Seems like this page doesn't exist");
     err.status = 404;
+    //log friendly error message to the console
+    console.error("Error: 404\n This page doesn't seem to exist")
     next(err);
 });
 

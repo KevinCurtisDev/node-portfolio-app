@@ -1,4 +1,7 @@
-//- Display error message and stack
-h1= error.message
-h2= error.status
-pre= error.stack
+extends layout.pug
+
+block content
+    //- Display error message and stack
+    h1= error.message
+    h2= error.status
+    pre= error.stack
